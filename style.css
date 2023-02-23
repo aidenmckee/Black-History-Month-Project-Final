@@ -1,0 +1,19 @@
+img{
+  width: 200px;
+  height:250px;
+  justify-content: center;
+}
+.container{
+  flex-direction: column;
+  display: flex;
+}
+iframe{
+  width:50%;
+  height: 400px;
+}
+.nav{
+  justify-content: space-between;
+}
+.box{
+  background-color: tan;
+}
